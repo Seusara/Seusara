@@ -101,7 +101,9 @@ Puedo ayudarte a convertirlo en un producto web funcional y listo para producci�
 
 <br /><br />
 
-<sub>Comar-K Tecnología · Software real para negocios reales</sub>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=900&color=4ADE80&center=true&vCenter=true&width=680&lines=Gracias+por+visitar+mi+perfil;Comar-K+Tecnolog%C3%ADa;Construyamos+algo+%C3%BAtil" alt="Mensaje animado de cierre" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ADE80,100:0A66C2&height=110&section=footer&animation=fadeIn" width="100%" alt="Cierre animado azul y verde" />
 
