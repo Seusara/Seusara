@@ -48,7 +48,7 @@ Estudiante de Ingeniería en Desarrollo de Software en la **UTLD** y cofundador 
 <img src="https://github-readme-stats.vercel.app/api?username=Seusara&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=4ade80&text_color=c9d1d9&icon_color=0A66C2" width="49%" alt="Estadísticas de GitHub de Seusara" />
 <img src="https://streak-stats.demolab.com?user=Seusara&theme=transparent&hide_border=true&ring=4ADE80&fire=0A66C2&currStreakLabel=4ADE80&sideLabels=C9D1D9&dates=8B949E" width="49%" alt="Racha de contribuciones de Seusara" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Seusara&theme=react-dark&hide_border=true&bg_color=00000000&color=4ade80&line=0A66C2&point=ffffff" width="98%" alt="Gráfica de actividad de Seusara" />
+<img src="game.gif" width="98%" alt="Nave espacial disparando a las contribuciones de Seusara" />
 
 </div>
 
@@ -59,3 +59,4 @@ Estudiante de Ingeniería en Desarrollo de Software en la **UTLD** y cofundador 
 **Comar-K Tecnología · Software real para negocios reales**
 
 </div>
+
