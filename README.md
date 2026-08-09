@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://github.com/Seusara/Seusara/releases/download/profile-assets-v1/profile-banner.png" width="100%" alt="Aaron Interian — Full Stack Developer y cofundador de Comar-K Tecnología" />
+[![Perfil animado de Aaron Interian](https://www.gitskins.com/api/section/hero?username=Seusara&theme=neon&style=aura)](https://www.gitskins.com/showcase/Seusara?skin=studio)
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=4ADE80&center=true&vCenter=true&width=680&lines=Full+Stack+Developer;React+%C2%B7+TypeScript+%C2%B7+Supabase+%C2%B7+Vercel;Cofundador+de+Comar-K+Tecnolog%C3%ADa;Software+real+para+negocios+reales" alt="Presentación animada de Aaron Interian" />
 
 <br />
 
