@@ -83,7 +83,7 @@ Trabajo de extremo a extremo —base de datos, backend, frontend y despliegue—
 
 <div align="center">
 
-<p>Mi gráfica de contribuciones convertida en una batalla espacial. Se actualiza automáticamente cada día mediante GitHub Actions.</p>
+<p> GitHub Actions.</p>
 
 <img src="game.gif" width="100%" alt="Nave espacial disparando a las contribuciones de Seusara" />
 
